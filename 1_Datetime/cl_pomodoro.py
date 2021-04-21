@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Purpose: Terminal-based Pomodoro timer
 
 from datetime import datetime
