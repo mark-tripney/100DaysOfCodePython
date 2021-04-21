@@ -6,7 +6,7 @@ after two sessions focused around `datetime`.
 
 ## About
 
-- **cl_pomodoro** takes the current time and, given a study session 
+- `cl_pomodoro` takes the current time and, given a study session 
 length, tells the user when their study period will end.
 - It displays a timer of minutes and seconds remaining.
 
