@@ -1,16 +1,16 @@
-# `cl_pomodoro` — time your study sessions! 🍅
-
+# 🍅 `cl_pomodoro`
+## Time your study sessions!
 `cl_pomodoro.py` is a simple command line Pomodoro timer, designed for 
 timed study sessions. It was created during my #100DaysOfCode programme, 
 after two sessions focused around `datetime`.
 
-### About
+## About
 
-- It takes the current time and, given a study session 
+- **cl_pomodoro** takes the current time and, given a study session 
 length, tells the user when their study period will end.
 - It displays a timer of minutes and seconds remaining.
 
-### How to
+## How to
 
 **usage**: `$ cl_pomodoro.py [-h] [-a] study`
 
